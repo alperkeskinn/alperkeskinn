@@ -1,16 +1,36 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" align="right" width="300" height="200">
 
-<!--
-**alperkeskinn/alperkeskinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, Ben Alper 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Işık üniversitesi | Bilgisayar Programcılığı 
+
+<font color="red">Siber güvenlik alanında kendimi geliştirmek istiyorum. </font>  
+
+
+
+### Bana ulaşın
+
+[<img width="32" src="https://unpkg.com/simple-icons@v6/icons/[youtube].svg" align="left" />] [youtube]
+[<img width="32" src="https://unpkg.com/simple-icons@v6/icons/[instagram].svg" align="left" />] [instagram]
+[<img width="32" src="https://unpkg.com/simple-icons@v6/icons/[facebook].svg" align="left" />] [facebook]
+[<img width="32" src="https://unpkg.com/simple-icons@v6/icons/[twitter].svg" align="left" />] [twitter]
+
+
+
+
+
+
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=alperkeskinn">
+</details>
+
+
+
+
+
+[instagram]:https://www.instagram.com/alperrkeskiin/
+[twitter]:https://twitter.com/alpertrax
+[facebook]:https://www.facebook.com/alperkeskin2002/
+[youtube]:https://www.youtube.com/channel/UCmAR_1EPtos8DQ1At3tgiNA
