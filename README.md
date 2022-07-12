@@ -5,7 +5,7 @@
 
 ### Işık üniversitesi | Bilgisayar Programcılığı 
 
-<font color="red">Siber güvenlik alanında kendimi geliştirmek istiyorum. </font>  
+ 
 
 
 
