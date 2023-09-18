@@ -3,7 +3,7 @@
 # Merhaba, Ben Alper 
 
 
-### Işık üniversitesi | Bilgisayar Programcılığı 
+### Developer
 
  
 
